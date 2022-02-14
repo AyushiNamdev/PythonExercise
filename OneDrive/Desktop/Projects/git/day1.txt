@@ -1,0 +1,31 @@
+Git:
+
+Uses:
+to track changes in code
+collaborate while coding
+tracking who made changes
+
+What does Git do?
+
+repositories
+clone projects
+Control and track changes with Staging and Committing
+Branch and Merge to allow for work on different parts and versions of a project
+pull
+push local to main project
+
+Commands:
+
+use cd.. to move out of a directory
+file- check status then
+add files-
+then check status
+stage- to make the file tractable (before commiting)
+add files-
+add multiple files
+git add --filename
+git status
+git add --all
+git commit -m"type thhe message here"
+git push {code uploads on the github branch}
+
