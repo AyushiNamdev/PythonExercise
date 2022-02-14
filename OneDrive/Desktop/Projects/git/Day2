@@ -1,0 +1,15 @@
+Notes on Git------Day 2
+
+Till now, I have commited two html files on GitHub
+One with staging and one without staging
+
+Staging is recommended as it gives us a chance to check again if we missed something
+Commiting without skips the staging step an directly add the code
+
+To get our code, file or document on GitHub, we need to "Push" the code
+to the directory/ branch where we want our code or file to show.
+
+----Day 2---
+Starting with Git Branch:
+
+there can be different branches within the main file
