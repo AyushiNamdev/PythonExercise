@@ -1,5 +1,5 @@
 import random
-from urllib import urlopen
+from urllib.request import urlopen
 import sys
 
 WORD_URL = "http://learncodethehardway.org/words.txt"
@@ -72,7 +72,7 @@ try:
         random.shuffle(snippets)
 
         for snippet in snippets:
-            phrase = PHRASES[snippet]
+            phrase = PHRASES[snippets]
             question, answer = convert(snippet, phrase)
             if PHRASE_FIRST:
                 question, answer = answer, question
